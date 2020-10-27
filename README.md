@@ -1,14 +1,20 @@
-## Hi there, I'm Readwan 👋
+## Hi there, I'm Readwan👋
+### 🤩 Curious Javascript Learner 🧐
 
 
 - 🌱 I’m currently learning Node, Mongo and Express
-- 😄 Pronouns: He / Him
 
 <br />
 
 <img width="550" alt="Md Readwan's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=readwanmd&show_icons=true"/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=readwanmd&card_width=550)](https://github.com/readwanmd/readwanmd)
+
+
+
+
+
+
 
 <!--
 **readwanmd/readwanmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
