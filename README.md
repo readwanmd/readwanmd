@@ -1,8 +1,5 @@
-## Hi there, I'm Readwan👋
-### 🤩 Curious Javascript Learner 🧐
-
-
-- 🌱 I’m currently learning Node, Mongo and Express
+# Hi there, I'm Readwan👋
+## 🤩 Curious Javascript Learner 🧐
 
 <br />
 
