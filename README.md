@@ -1,5 +1,4 @@
 # Hi there, I'm Readwan👋
-## 🤩 Curious Javascript Learner 🧐
 
 <br />
 
