@@ -2,7 +2,9 @@
 
 <br />
 
-<img width="550" alt="Md Readwan's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=readwanmd&show_icons=true"/>
+<!-- 
+<img width="550" alt="Md Readwan's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=readwanmd&show_icons=true"/> 
+-->
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=readwanmd&card_width=550)](https://github.com/readwanmd/readwanmd)
 
