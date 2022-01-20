@@ -9,7 +9,7 @@
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=readwanmd&card_width=550)](https://github.com/readwanmd/readwanmd)
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=readwanmd&theme=vue-dark&hide_border=true" width="400" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=readwanmd&theme=vue-dark&hide_border=true" width="600" >
 
 
 
