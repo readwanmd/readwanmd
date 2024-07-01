@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/readwan_md" target="blank"><img src="https://img.shields.io/twitter/follow/readwan_md?logo=twitter&style=for-the-badge" alt="readwan_md" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://md-readwan.web.app/)
+- 🔭 I’m currently working on [My Portfolio](https://readwanmd.vercel.app/)
 
 - 🌱 I’m currently learning **NextJs**
 
