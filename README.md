@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 All of my projects are available at [https://md-readwan.web.app/](https://md-readwan.web.app/)
-
 - 📝 I regularly write articles on [https://medium.com/@readwanmd](https://medium.com/@readwanmd)
 
 - 💬 Ask me about **react**
